@@ -1,0 +1,5 @@
+{
+	"gameType.missionworld.mission_world": "Mission World",
+	"text.missionworld.mission_completion": "%s/%s ✫",
+	"text.missionworld.template_load_failed": "Failed to load the map template"
+}

@@ -1,0 +1,7 @@
+{
+	"type": "missionworld:mission_world",
+	"name": "Mission World",
+	"map": {
+		"lobby": "missionworld:lobby"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "missionworld",
+	"version": "${version}",
+	"name": "Mission World",
+	"description": "A long-form mission mode for Minecraft.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Mission-World#readme",
+		"issues": "https://github.com/haykam821/Mission-World/issues"
+	},
+	"entrypoints": {
+		"main": [
+			"io.github.haykam821.missionworld.Main"
+		]
+	},
+	"license": "MIT",
+	"icon": "assets/missionworld/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0",
+		"plasmid": ">=0.4.0"
+	}
+}
